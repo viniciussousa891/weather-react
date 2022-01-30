@@ -1,4 +1,4 @@
-# CASE WEB APP DE PREVISÃO DO TEMPO
+# Case Web - App de Previsão do tempo
 
 - [x] Node.js
 - [x] Como iniciar projeto React de maneira simples:
